@@ -22,9 +22,9 @@
 
 - 💬 Ask me about **<code>C</code>, <code>C++</code>, <code>Java</code>, <code>Python</code>, <code>Data Structures</code>, <code>Networking</code>**
 
-- 📫 How to reach me: **<code><a href="[https://www.linkedin.com/in/satwik-mahajan](https://www.linkedin.com/in/satwik-mahajan-173766218/)">LinkedIn</a></code>** **<code>[Email](mailto:satwikmahajan8@email.com)</code>**
+- 📫 How to reach me: **<code><a href="https://www.linkedin.com/in/satwik-mahajan-173766218">LinkedIn</a></code>** **<code>[Email](mailto:mahajansatvik8@email.com)</code>**
 
-- 👨‍💻 Check out my projects **<code>[here!](https://github.com/satwikmahajan?tab=repositories)</code>**
+- 👨‍💻 Check out my projects **<code>[here!](https://github.com/SatwikMahajan01?tab=repositories)</code>**
 
 - 😄 Pronouns: **<code>He/Him</code>**
 
